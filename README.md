@@ -1,4 +1,4 @@
-# Eel/Vue sample app
+# PYTHON&VUE 桌面应用
 ---
 ## Setup
 ```
